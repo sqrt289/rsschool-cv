@@ -6,3 +6,10 @@
 * **GitHub:** [sqrt289](https://github.com/sqrt289)
 ## About Me 
 I am 24 years old. I have management and marketing experience. I love learning and achieving my goals. Purposeful and reliable. I can take responsibility!
+## Skills
+* HTML
+* CSS
+* JavaScript (Basic)
+* GIT
+* React JS
+## Code Example
