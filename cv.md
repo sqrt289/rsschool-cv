@@ -13,3 +13,11 @@ I am 24 years old. I have management and marketing experience. I love learning a
 * GIT
 * React JS
 ## Code Example
+```
+function multiply(a, b) {
+  return a * b;
+}
+
+let result = multiply(24, 87);
+console.log(result);
+``` 
