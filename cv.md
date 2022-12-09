@@ -21,3 +21,15 @@ function multiply(a, b) {
 let result = multiply(24, 87);
 console.log(result);
 ``` 
+## Experience
+Unfortunately, I still have no experience working in IT
+## Education
+* **University:** Moscow State University of civil engineering
+* **Courses:** 
+    + [JavaScript для начинающих](https://stepik.org/course/2223/syllabus) 
+    + [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus) 
+## Languages
+* Russian 
+* English
+## English
+I studied English at school. I'm determined to practice more, because I understand programming without English will be very difficult.
