@@ -1,4 +1,6 @@
 # Umud Bayramov
+
+
 ## Contacts 
 * **Location:** Moscow, Russia 
 * **Telegram:** sqrt1717 
@@ -36,8 +38,8 @@ Unfortunately, I still have no experience working in IT
 ## Education
 * **University:** Moscow State University of civil engineering
 * **Courses:** 
-    + [JavaScript для начинающих](https://stepik.org/course/2223/syllabus) 
-    + [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus) 
+    + [JavaScript for beginners](https://stepik.org/course/2223/syllabus) 
+    + [Web development for beginners: HTML и CSS](https://stepik.org/course/38218/syllabus) 
 
 
 ## Languages
